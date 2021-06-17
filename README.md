@@ -14,13 +14,13 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - [Introduction](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%201/Day%201%20-%20Introduction.ipynb)
 
 ### Lesson 2
-- [Regression](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%202/Day%202%20-%20Regression.ipynb)
+- [Regression](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%202/Day_2_Regression.ipynb)
 
 ### Lesson 3
-- [Classification](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%203/Day%203%20-%20Classification.ipynb)
+- [Classification](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%203/Day_3_Classification.ipynb)
 
 ### Lesson 4
-- [Decision Trees](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%204/Day%204%20-%20Decision%20Trees.ipynb)
+- [Decision Trees](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%204/Day_4_Decision_Trees.ipynb)
 
 ### Lesson 5
 - [Unsupervised Learning](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%205/Day%205%20-%20Unsupervised%20Learning.ipynb)

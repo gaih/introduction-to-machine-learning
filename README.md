@@ -6,8 +6,6 @@
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/courses/introduction-to-machine-learning/)
 
-To enroll our courses, you can find the next course that fit your schedule by visiting [Upcoming Courses.](https://globalaihub.com/upcoming-courses/)
-
 ## Syllabus
 
 ### Lesson 1

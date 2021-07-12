@@ -9,19 +9,19 @@ You can find more information about our Introduction to Machine Learning Course 
 ## Syllabus
 
 ### Lesson 1
-- [Introduction](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%201/Day%201%20-%20Introduction.ipynb)
+- Introduction
 
 ### Lesson 2
-- [Regression](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%202/Day_2_Regression.ipynb)
+- Regression
 
 ### Lesson 3
-- [Classification](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%203/Day_3_Classification.ipynb)
+- Classification
 
 ### Lesson 4
-- [Decision Trees](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%204/Day_4_Decision_Trees.ipynb)
+- Decision Trees
 
 ### Lesson 5
-- [Unsupervised Learning](https://github.com/gaih/introduction-to-machine-learning-v2/blob/main/Day%205/Day%205%20-%20Unsupervised%20Learning.ipynb)
+- Unsupervised Learning
 
 
 ## Certification Example

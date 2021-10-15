@@ -22,7 +22,3 @@ You can find more information about our Introduction to Machine Learning Course 
 
 ### Lesson 5
 - Unsupervised Learning
-
-
-## Certification Example
-![Certificate](updated-certificate.png)
